@@ -55,7 +55,7 @@ An end-to-end Machine Learning application that predicts freight costs and flags
  - Invoice Risk Detection:
    - Balanced model improving detection of minority (risky) cases
    - Optimized for recall over accuracy (business-critical)
-
+   - 
 🧩 Project Structure
 ML_PROJECT/
 │
