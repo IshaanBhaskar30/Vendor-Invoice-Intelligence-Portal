@@ -56,7 +56,7 @@ An end-to-end Machine Learning application that predicts freight costs and flags
    - Balanced model improving detection of minority (risky) cases
    - Optimized for recall over accuracy (business-critical)
    - 
- 🧩 Project Structure
+ ### 🧩 Project Structure
  ML_PROJECT/
  │
  ├── data/
